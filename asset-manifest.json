@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/latin-vocab/static/css/main.969982cf.chunk.css",
+    "main.js": "/latin-vocab/static/js/main.e128d47e.chunk.js",
+    "main.js.map": "/latin-vocab/static/js/main.e128d47e.chunk.js.map",
+    "runtime-main.js": "/latin-vocab/static/js/runtime-main.c24893f3.js",
+    "runtime-main.js.map": "/latin-vocab/static/js/runtime-main.c24893f3.js.map",
+    "static/css/2.11829350.chunk.css": "/latin-vocab/static/css/2.11829350.chunk.css",
+    "static/js/2.d205f3b2.chunk.js": "/latin-vocab/static/js/2.d205f3b2.chunk.js",
+    "static/js/2.d205f3b2.chunk.js.map": "/latin-vocab/static/js/2.d205f3b2.chunk.js.map",
+    "index.html": "/latin-vocab/index.html",
+    "precache-manifest.42437d36eec5fd573972e1ac46cf1617.js": "/latin-vocab/precache-manifest.42437d36eec5fd573972e1ac46cf1617.js",
+    "service-worker.js": "/latin-vocab/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/latin-vocab/static/css/2.11829350.chunk.css.map",
+    "static/css/main.969982cf.chunk.css.map": "/latin-vocab/static/css/main.969982cf.chunk.css.map",
+    "static/js/2.d205f3b2.chunk.js.LICENSE.txt": "/latin-vocab/static/js/2.d205f3b2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c24893f3.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.d205f3b2.chunk.js",
+    "static/css/main.969982cf.chunk.css",
+    "static/js/main.e128d47e.chunk.js"
+  ]
+}
