@@ -32,7 +32,7 @@ export const VocabPractice = (props) => {
 
     return cards.length ? (
         <div className="text-center mt-5">
-            <h1>Vocab Practice</h1>
+            <h1>Lest they be forgotten</h1>
             <VocabCard  latin={currentCard.latin} english={currentCard.english}
                 notes={currentCard.notes} englishSentence={currentCard.englishSentence}
                 type={_.startCase(currentCard.type)}/>
